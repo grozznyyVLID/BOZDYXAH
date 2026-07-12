@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NE_SMP.aternos.me:28866",
+    "ip": "NE_SMP.aternos.me",
     "port": 28866,
     "version": "",
     "try-creative": false
